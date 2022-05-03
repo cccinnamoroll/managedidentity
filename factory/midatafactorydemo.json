@@ -1,0 +1,9 @@
+{
+	"name": "midatafactorydemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9077c523-ed82-40d1-9597-864faceb22f3",
+		"tenantId": "6c1d4152-39d0-44ca-88d9-b8d6ddca0708"
+	}
+}
